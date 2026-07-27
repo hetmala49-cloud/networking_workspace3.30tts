@@ -1,0 +1,15 @@
+Research and list 3 popular CPU socket types (for example: LGA1151, AM4, LGA1200) and name one compatible CPU model for each.
+
+Socket LGA1700-Developed by Intel to support 12th, 13th, and 14th-generation desktop processors.
+
+Compatible CPU: Intel Core i5-12400F
+
+
+Socket AM4-A highly long-lived socket from AMD, supporting multiple generations of Ryzen CPUs from Gen 1 to Gen 5.
+
+Compatible CPU: AMD Ryzen 5 5600X
+
+
+Socket AM5- AMD's current desktop socket, introduced for Ryzen 7000 series and newer, which features a land grid array (LGA) design and DDR5 support.
+
+Compatible CPU: AMD Ryzen 7 7800X3D

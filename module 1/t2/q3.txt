@@ -1,0 +1,14 @@
+Explain in your own words the primary functions of the CPU and the chipset on a motherboard, and describe how they work together when you open a music app like Spotify.
+
+CPU (Central Processing Unit)-Calculates data: Processes binary code using its arithmetic logic units.
+Executes instructions: Runs the step-by-step logic of your operating system and apps.
+Processes instructions: it processes info. and transfers it to other components.
+
+Chipset (Motherboard)-Defines features: Determines how many USB ports, M.2 storage slots, and PCIe lanes your motherboard has.
+Manages low-speed data: Handles communication for USB ports, audio chips, and SATA drives.
+(it also manages communication between the CPU and hardware comp.)
+
+pathway:-
+
+[ Solid State Drive (SSD) ]->[ Motherboard Chipset ]->[ CPU ]->[GPU]->[Audio Jack ]->[speaker]
+                                                         |_[RAM]

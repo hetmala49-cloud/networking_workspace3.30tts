@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="XiBXJAS25ygaNkzfBgvO">
+    <mxGraphModel dx="1030" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pcb" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#124E3F;strokeColor=#0B3026;fontColor=#FFFFFF;align=center;verticalAlign=top;fontStyle=1;fontSize=14;" value="ATX MOTHERBOARD PCB" vertex="1">
+          <mxGeometry height="500" width="450" x="100" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cpu" parent="1" style="whiteSpace=wrap;html=1;fillColor=#D5D8DC;strokeColor=#7B7D7D;fontColor=#000000;fontStyle=1;" value="1. CPU Socket" vertex="1">
+          <mxGeometry height="110" width="110" x="220" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cpupower" parent="1" style="whiteSpace=wrap;html=1;fillColor=#1B1C1D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=10;" value="2. CPU Power&#xa;(8-Pin)" vertex="1">
+          <mxGeometry height="30" width="80" x="120" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ram" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=1;fillColor=#1F618D;strokeColor=#114B7A;fontColor=#FFFFFF;fontSize=11;connectable=0;allowArrows=0;" value="3. RAM Slots (DIMM)" vertex="1">
+          <mxGeometry height="140" width="120" x="380" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ram1" parent="ram" style="whiteSpace=wrap;html=1;fillColor=#2E4053;" value="" vertex="1">
+          <mxGeometry height="120" width="30" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ram2" parent="ram" style="whiteSpace=wrap;html=1;fillColor=#566573;" value="" vertex="1">
+          <mxGeometry height="120" width="30" x="30" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ram3" parent="ram" style="whiteSpace=wrap;html=1;fillColor=#2E4053;" value="" vertex="1">
+          <mxGeometry height="120" width="30" x="60" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ram4" parent="ram" style="whiteSpace=wrap;html=1;fillColor=#566573;" value="" vertex="1">
+          <mxGeometry height="120" width="30" x="90" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mainpower" parent="1" style="whiteSpace=wrap;html=1;fillColor=#1B1C1D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=11;" value="4. Main ATX Power&#xa;(24-Pin)" vertex="1">
+          <mxGeometry height="130" width="30" x="510" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="io" parent="1" style="whiteSpace=wrap;html=1;fillColor=#7B7D7D;strokeColor=#4D5656;fontColor=#FFFFFF;fontSize=10;" value="Rear I/O Ports&#xa;(USB / Audio / LAN)" vertex="1">
+          <mxGeometry height="160" width="40" x="60" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="pcie1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#78281F;strokeColor=#511812;fontColor=#FFFFFF;fontStyle=1;" value="5. PCIe x16 (GPU Slot)" vertex="1">
+          <mxGeometry height="20" width="230" x="130" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="m2" parent="1" style="whiteSpace=wrap;html=1;fillColor=#5D6D7E;strokeColor=#34495E;fontColor=#FFFFFF;fontSize=10;" value="6. M.2 NVMe Slot" vertex="1">
+          <mxGeometry height="15" width="90" x="130" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="pcie1x" parent="1" style="whiteSpace=wrap;html=1;fillColor=#78281F;strokeColor=#511812;fontColor=#FFFFFF;fontSize=9;" value="PCIe x1" vertex="1">
+          <mxGeometry height="15" width="70" x="130" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="pcie2" parent="1" style="whiteSpace=wrap;html=1;fillColor=#78281F;strokeColor=#511812;fontColor=#FFFFFF;fontSize=10;" value="PCIe x16 Slot (Secondary)" vertex="1">
+          <mxGeometry height="20" width="230" x="130" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="chipset" parent="1" style="whiteSpace=wrap;html=1;fillColor=#2C3E50;strokeColor=#1A252F;fontColor=#FFFFFF;" value="Motherboard&#xa;Chipset" vertex="1">
+          <mxGeometry height="80" width="90" x="400" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="sata" parent="1" style="whiteSpace=wrap;html=1;fillColor=#B9770E;strokeColor=#7E5109;fontColor=#FFFFFF;fontSize=11;" value="7. SATA&#xa;Ports" vertex="1">
+          <mxGeometry height="70" width="25" x="515" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="usbheaders" parent="1" style="whiteSpace=wrap;html=1;fillColor=#117A65;strokeColor=#0E6251;fontColor=#FFFFFF;fontSize=10;" value="8. Internal USB Headers" vertex="1">
+          <mxGeometry height="25" width="130" x="250" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="fpanel" parent="1" style="whiteSpace=wrap;html=1;fillColor=#117A65;strokeColor=#0E6251;fontColor=#FFFFFF;fontSize=10;" value="Front Panel Pins" vertex="1">
+          <mxGeometry height="25" width="90" x="410" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="audioheader" parent="1" style="whiteSpace=wrap;html=1;fillColor=#117A65;strokeColor=#0E6251;fontColor=#FFFFFF;fontSize=10;" value="Audio Header" vertex="1">
+          <mxGeometry height="25" width="80" x="130" y="565" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
