@@ -1,0 +1,17 @@
+Write a short explanation (2-3 sentences each) describing the role of the CPU, RAM, and GPU in running a game like PUBG or Free Fire on a PC.
+
+CPU - CPU calculates the changes happening in the game and the data got by the internet e.g. in game, the hit physics, firing effect, the position of the enemy.
+
+RAM - RAM hold the activity happening. its main purpose is multitasking and running the activity or multiple activities.
+
+GPU - GPU locates the positions of the image to be formed and sends to monitor and rendering image. for e.g. showing the image of the player with its coordinates and sowing that image on monitor.
+
+flow process on starting a game:-
+
+[Storage Drive] ──> Data of game(Loads Map & Skins) ──> [RAM] Holds the active data ──>[CPU] ──> 
+
+(Calculates hit physics, player positions, & network) ──> [GPU] ──> Sends 3D Coordinates ──>  
+
+(Renders frame & colors) ──> [Monitor].
+
+   

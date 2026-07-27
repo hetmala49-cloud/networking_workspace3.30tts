@@ -1,0 +1,9 @@
+Imagine you want to upgrade your PC to run the latest version of FIFA smoothly. List which hardware components you would consider upgrading and explain why for each.
+
+GPU (Graphics Processing Unit) - it is the first thing to upgrade because of screening high frame rate and sharp images giving clear and a high quality image. for e.g. , realistic grass textures, and strand-based player hair animations. also without low fps(Frame Per Second).
+
+CPU (Central Processing Unit) -  it needs a highly processing unit to perform fast calculations, get fast ai decisions.it also reduces an image freezing due to preforming data calculations. for e.g. referee decisions, and player collision physics,processing game logic fast enough to feed data to your GPU.
+
+RAM (Random access memory) - it Holds the active data also the sub-titles given while it is also needed to do multiple tasking during running it smooth in background(at least a 16gb ram you should upgrade) for e.g. you are running software's like discord (which helps communicating with other players) makes multitasking smooth and needs a good ram to perform both heavy task together.
+
+SSD (Solid State Drive) - it is needed if you are on a low SSD or less space system which allow you to download or run heavy software more smoother and the system also gets place to keep background files in it . while SSD is more faster than HDD.

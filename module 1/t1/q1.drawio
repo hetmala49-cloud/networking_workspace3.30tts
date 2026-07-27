@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="XCQJX9thT4f9oAxVzyHe">
+    <mxGraphModel dx="1030" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="case" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;align=center;verticalAlign=top;fontStyle=1;fontSize=14;spacingTop=10;" value="PC CASE" vertex="1">
+          <mxGeometry height="460" width="580" x="80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mobo" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=top;fontStyle=1;fontSize=12;spacingTop=8;" value="MOTHERBOARD" vertex="1">
+          <mxGeometry height="340" width="340" x="110" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cpu" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;" value="CPU" vertex="1">
+          <mxGeometry height="80" width="80" x="150" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ram" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;rotation=90;" value="RAM" vertex="1">
+          <mxGeometry height="80" width="30" x="270" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gpu" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;" value="GPU (Graphics Card)" vertex="1">
+          <mxGeometry height="50" width="260" x="140" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd_m2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=10;" value="SSD (M.2)" vertex="1">
+          <mxGeometry height="25" width="70" x="150" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd_sata" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;" value="SSD (SATA)" vertex="1">
+          <mxGeometry height="60" width="130" x="490" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hdd" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;" value="HDD" vertex="1">
+          <mxGeometry height="70" width="130" x="490" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="psu" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1e1e1;strokeColor=#cccccc;fontStyle=1;" value="POWER SUPPLY" vertex="1">
+          <mxGeometry height="90" width="130" x="490" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="link_ssd" edge="1" parent="1" source="ssd_sata" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#b85450;strokeWidth=2;" target="mobo">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="link_hdd" edge="1" parent="1" source="hdd" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#b85450;strokeWidth=2;" target="mobo">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
