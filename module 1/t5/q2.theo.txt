@@ -1,0 +1,30 @@
+Take clear photos or draw labeled diagrams of each step as you disassemble a desktop PC, and organize them in a document with captions explaining what you did at each step.<br><br><em><strong>Hint:</strong> Include steps like unplugging power, removing side panel, disconnecting cables, and removing RAM, HDD/SSD, and motherboard.</em>
+
+[unplugging power(main wall power)]->[remove smps connection (remove stored power in psu)]->
+
+[remove power of motherboard from smps (24-slots and another power adopter 4 slots)]->
+
+[remove power cable from ssd/hdd]-[also if gpu extra fan side fan inserted]-{smps can now be removed
+
+->[remove sata cable from sata ports on motherboard(m.2 if nvme ssd)]-{ssd/hdd can now be removed}
+
+->[remove gpu(if there) from pcie slot connected to its vga]-{gpu can be removed}->[cpu fan]-
+
+(after removing cpu fan from the mother board 4-pins and unlocking fan)-{fan can now be removed} 
+
+->[now  remove ram by unlocking lock in ram slots]-{ram can now be removed}->[audio cable with 
+
+port in front and 11-pings where last second ping unslotted ]-{we can remove audio port}->
+
+[usb port can be removed with port in front having 11-pings where last ping unslotted ]-{usb cable}
+
+->[now the cables of the ports and buttons can be removed with 8-pings where sequence given below]-
+
+--[   +HDD-   ][ +p-led- ]
+--[rest-switch][pw-switch]
+
+-{all the ports and buttons are disassembled}->(cmos cell can be removed if to be replaced)->
+[now the cpu can be removed by unlocking cpu slot and it can be removed]-{cpu is removed}->
+
+[Mother board no can be detached from the cabinate]-(motherboard can be removed)
+

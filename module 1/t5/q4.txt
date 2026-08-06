@@ -1,0 +1,14 @@
+Create a checklist of safety precautions and tools needed before starting the PC assembly/disassembly process, and explain why each is important.
+
+Power down completely- for life safety.
+
+Drain residual power- psu can run 10-15 min with stored battery.
+
+Essential Tools:-
+
+Screwdriver- to assemble and dissemble nuts.
+
+Alcohol/brush-to remove dust out of hardware parts.
+
+Small Cups- to keep the nuts at a specified place.
+

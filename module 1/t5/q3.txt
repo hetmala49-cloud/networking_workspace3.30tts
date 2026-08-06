@@ -1,0 +1,23 @@
+Reassemble the PC you disassembled, documenting each step with a brief explanation of what you connected or installed and why the order matters.
+
+brief explanation given in ans 2-
+
+order to fix-
+
+1)mother board on cabinate-it is the main circuit board on which other components are connected so it is first fixed.
+
+2)(as per my opinion)the front port cables should be connected on the motherboard-they are small and quiet tiny so after fixing other components its hard to fix that tiny pins.
+
+3)now we should go for gpu as pcie slot comes after this small ports-it can fixed first so that ram can easily fix and don't get compact.
+
+4)now we should fix cpu in its slot-if we first fix ram then at the time of fixing the cpu fan can be quit hard to fix between small space from ram and gpu.
+
+5) cpu fan.
+
+6)now we should fix smps-so that its power can be easily given to 24-slots ping and than ram should be fixed.
+
+7)now we should fix ram.
+
+8)and we should connest ssd/hdd- to sata and smps.
+
+9) and the remaining wires should be connected for e.g. gpu fan 

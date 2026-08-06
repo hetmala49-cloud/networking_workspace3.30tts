@@ -1,0 +1,17 @@
+
+List all the main components you find inside a desktop PC after opening the cabinet, and write a short description (1-2 lines) for each.
+
+Motherboard: The main circuit board that connects all components and allows them to communicate or does the power distribution between them.
+
+Central Processing Unit (CPU): The brain of the computer that executes instructions and processes data.
+(A heatsink and fan assembly that sits directly on the CPU to prevent it from overheating.)
+
+Random Access Memory (RAM): provide high-speed, temporary storage for active applications and moves stored data and performs task or also used for multitasking.
+
+Graphics Processing Unit (GPU): A large dedicated card used to process visuals, images, and video output.
+
+Power Supply Unit (PSU): A metal box that converts wall electricity into usable power for internal parts.
+(SMPS-is alos used instead of psu which sacrifices it self when voltage diffuse is happen and saves motherboard which more beneficial than psu)
+
+Storage Drives (SSD/HDD/NVMe SSD): Solid-state or mechanical drives that permanently store your operating system, files, and programs.
+
