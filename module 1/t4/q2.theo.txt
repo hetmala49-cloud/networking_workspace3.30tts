@@ -1,0 +1,23 @@
+Label the main cooling components and briefly describe their function.
+
+Fig-[ Cool Air In ] ---> [ Case Fan (Intake) ] 
+                             |
+                             v
+[ CPU/GPU ] ---> [ Thermal Paste ] ---> [ Heatsink / Water Block ] ---> [ Case Fan (Exhaust) ] ---> [ Hot Air Out ]
+
+its comp.-
+
+Fans: Its the common used factor to move hot air out and keep the system cool also its mandatory on a basis computer system.
+
+Heatsink: A block of metal made of copper or aluminum is used on CPU or GPU which spread hot air and fans move it out.
+
+Thermal Paste: it is used on cpu or between cpu/gpu and the heat sink which absorbs heat and keeps it cool.
+
+Liquid Cooling Pump & Block: Used in liquid cooling setups instead of a traditional heatsink. The block sits on the CPU to absorb heat, and the pump circulates liquid to carry that heat away.
+
+Radiator: A large metal grid used in liquid cooling. The heated liquid flows through it, and fans blow through the grid to cool the liquid down before it loops back.
+
+
+
+ 
+    

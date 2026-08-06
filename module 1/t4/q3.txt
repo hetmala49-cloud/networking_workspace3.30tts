@@ -1,0 +1,11 @@
+Create a comparison table listing at least 3 differences between air cooling and liquid cooling systems for GPUs, including factors like cost, efficiency, and maintenance.
+|========================================|
+| Feature      | ACS        | LCS        | (ACS-air cooling system)(LSC-liquid cooling system)
+|========================================|
+| Cost         | Cheap      | Expensive  |
+|----------------------------------------|
+| Theo.E       | Moderate   | Superior   | (Theo.E- thermal efficiency)
+|----------------------------------------|
+| Maintenance  | Minimal    | Higher     | 
+|========================================|
+(Reason- in acs only normal fan check up and dust maintenance is needed. while in lcs leak check,liquid test and also changing liquid after period of time)

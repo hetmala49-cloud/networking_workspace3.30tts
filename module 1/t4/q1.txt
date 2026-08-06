@@ -1,0 +1,14 @@
+Open your own laptop or desktop (or use an online PC hardware simulator if you don't have access to a real system) and identify the GPU model installed. Write down the GPU's brand, model number, and whether it is integrated or dedicated.
+
+(IN MY LAPTOP)-i have the Lenovo integrated 128mb graphics card.
+
+in terms of dedicated there are many graphics cards but the main two companies popular for making are-
+-NVDIA-Nvidia leads the market with powerful ray tracing, advanced upscaling (DLSS), and dominant performance.
+
+-AMD-AMD is widely popular for delivering exceptional rasterization performance and high value for traditional gamers.
+
+their best models at present time:
+ NVDIA-: Nvidia GeForce RTX 5090- Built on the Blackwell architecture   with 32GB of GDDR7 memory, engineered for extreme 4K/8K gaming and heavy AI workloads. 
+ AMD-: AMD Radeon RX 9070 XT- Built on the RDNA 4 architecture with 16GB of high-speed VRAM, providing top-tier enthusiast performance and strong price-to-performance balance.
+
+    

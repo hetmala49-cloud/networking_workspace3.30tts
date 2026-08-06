@@ -1,0 +1,9 @@
+Imagine you are building a gaming PC for streaming IPL matches and playing graphics-heavy games. Choose between air cooling and liquid cooling for your GPU, and justify your choice in 3-4 sentences based on your research.
+
+I'd prefer liquid cooling:-
+
+1)it would keep my components cool than air cooling which would produce less heat and increase my performance.
+
+2)in liquid cooling dose not need fans so it would not make much noise and would not disturb me while im watching match or doing my work. 
+
+3)also for heavy graphics game my gpu would get less heat compared to air cooling system so it be at high fps and would reduce lag for performance gameplay. 
