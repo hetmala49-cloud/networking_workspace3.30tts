@@ -1,0 +1,11 @@
+List three key differences between HDD, SSD, and NVMe storage types, and for each, name one app or use case (from apps you use daily) that would benefit most from that storage type.
+
+|==================================================|
+| Feature      | SSD       | HHD       | NVMe      |
+|--------------------------------------------------|
+| Speed (mb/s) | Fast      | Slow      | Very Fast |
+|--------------------------------------------------|
+| Cost         | Moderate  | Cheap     | Expensive |
+|--------------------------------------------------|
+| Port/cable   | M.2/PCIe  | SATA      | SATA      |
+|==================================================|
